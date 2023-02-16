@@ -1,0 +1,29 @@
+.for_outer {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-family: 'Bree Serif';
+}
+
+.forHeader {
+  color: #f0bb03;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+.forPara {
+  color: #ffffff;
+  font-size: 30px;
+}
+.for_button {
+  background-color: #ffffff;
+  font-family: 'Bree Serif';
+  padding: 15px;
+  margin: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  border-width: 0px;
+}
